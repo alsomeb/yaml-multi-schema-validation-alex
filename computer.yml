@@ -6,6 +6,7 @@ computer:
   memory:
     manufacturer: webhallen
     size: 16
+    type: RAM
   disk:
     manufacturer: seagate
     size: 2000
