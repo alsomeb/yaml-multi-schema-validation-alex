@@ -1,3 +1,12 @@
 computer:
   cpu:
     cores: 8
+    manufacturer: asus
+    frequency: 2.5
+  memory:
+    manufacturer: webhallen
+    size: 16
+  disk:
+    manufacturer: seagate
+    size: 2000
+    type: SSD
