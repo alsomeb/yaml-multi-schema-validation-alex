@@ -1,2 +1,6 @@
 car:
   manufacturer: volvo
+  model: v70
+  year: 2023
+  reg: ABC123
+  washed: false
