@@ -1,6 +1,6 @@
 schedule:
   program: java
-  year: 2023
+  year: "2023"
   lessons:
-    - date: "2022-02-01"
     - description: Yoghiou Master class
+    - date: "2022-02-01"
