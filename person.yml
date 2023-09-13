@@ -1,3 +1,11 @@
 person:
   name:
     first_name: Stig
+    last_name: Helmer
+  age: 80
+  class: Mage
+  start_year: 1991
+  hobbies:
+    - Computer
+    - Bicycle
+    - Yaml
